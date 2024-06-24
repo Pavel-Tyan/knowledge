@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "9db14a64eb30d7c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "37aa5ea9b2e5c34d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf25701e2fe9222a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/React/React и работа с DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64fdde277c3c9216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Gradable and non-gradable adjectives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "016e1fac77815b3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4266aab2ed2e5ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f06dff182cd5223",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ea290e7249a0476",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#React",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6d2d6fd89d4235c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.50152587890625
+  },
+  "right": {
+    "id": "2299f2e69ac5cd29",
+    "type": "split",
+    "children": [
+      {
+        "id": "f941e04af77efbf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455832106ee34d8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/Gradable and non-gradable adjectives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af9cdade8618b906",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/Gradable and non-gradable adjectives.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40d659a70da9f9bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80af6ee219546b7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Gradable and non-gradable adjectives.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "64fdde277c3c9216",
+  "lastOpenFiles": [
+    "English/“In” vs. “On” vs. “At” (Time).md",
+    "English/Gradable and non-gradable adjectives.md",
+    "English/“In” vs. “On” vs. “At” (Place).md",
+    "Web/React/1 или несколько useState.md",
+    "Web/Безопасность/JWT.md",
+    "Philosophy/Добродетель у греков.md",
+    "Philosophy/Различие этикета и этики.md",
+    "Philosophy/Условность предмета изучения философии до Сократа.md",
+    "Philosophy/Plato/Справедливость как добродетель.md",
+    "Philosophy/Plato/Роль первой книги Государства.md",
+    "Philosophy/Plato/Разделение труда в полисе Платона.md",
+    "Philosophy/Plato/Проблема хронологии написания диалогов Платона.md",
+    "Philosophy/Plato/Причина возникновения полиса.md",
+    "Philosophy/Plato/В чем проблема идиллии Платона.md",
+    "Logic/Критерий правильности умозаключений.md",
+    "English",
+    "Cache/Pasted image 20240623224415.png",
+    "Cache/Pasted image 20240623224053.png",
+    "Cache/Pasted image 20240623223829.png",
+    "Cache/Pasted image 20240623222854.png",
+    "Cache/Pasted image 20240623222534.png",
+    "Cache/Pasted image 20240623221918.png",
+    "Cache/Pasted image 20240623220018.png",
+    "Cache/Pasted image 20240623215810.png",
+    "Cache/Pasted image 20240623215319.png",
+    "Cache/Pasted image 20240623214956.png",
+    "Web/TypeScript/Интересные примеры типизации.md",
+    "Web/TypeScript/Зачем нужны дженерики.md",
+    "Web/TypeScript/Инструменты для определения типа.md",
+    "Web/TypeScript/Условные типы.md",
+    "Web/TypeScript/Сужение типов.md",
+    "Web/TypeScript/Как можно воспринимать тип.md",
+    "Web/TypeScript/Обход приведения типов.md",
+    "Web/TypeScript/Enum после компиляции.md",
+    "Web/React Router/Outlet.md",
+    "Web/TypeScript",
+    "Web/JavaScript/Интернационализация для дат.md",
+    "Web/React/Lazy loading.md",
+    "Web/Безопасность",
+    "Logic",
+    "Web/React Router",
+    "Web/JavaScript",
+    "Web/React",
+    "Web",
+    "Philosophy/Plato",
+    "Daily"
+  ]
+}
