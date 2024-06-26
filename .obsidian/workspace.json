@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Gradable and non-gradable adjectives.md",
+                "file": "Web/React/Синтетические события.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c18016838fd8acd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Redux Toolkit/Селекторы в сторе.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.50152587890625
+    "width": 301.50152587890625
   },
   "right": {
     "id": "2299f2e69ac5cd29",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Gradable and non-gradable adjectives.md",
+                "file": "Web/Redux Toolkit/Селекторы в сторе.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Gradable and non-gradable adjectives.md",
+                "file": "Web/Redux Toolkit/Селекторы в сторе.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Gradable and non-gradable adjectives.md"
+                "file": "Web/Redux Toolkit/Селекторы в сторе.md"
               }
             }
           }
@@ -159,23 +171,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64fdde277c3c9216",
+  "active": "c18016838fd8acd2",
   "lastOpenFiles": [
-    "English/“In” vs. “On” vs. “At” (Time).md",
+    "Web/Redux Toolkit/useAppSelector и ререндеры.md",
+    "Web/Redux Toolkit/Селекторы в сторе.md",
+    "Web/TypeScript/Зачем нужны дженерики.md",
+    "Web/React/useEffect vs useLayouotEffect.md",
+    "Web/React/Strict Mode и ререндеринг.md",
+    "Web/React/Statefull и Stateless.md",
+    "Web/React/Side Effects.md",
+    "Web/React/Batching.md",
+    "Web/React/Lazy loading.md",
+    "Web/TypeScript/Enum после компиляции.md",
+    "Web/TypeScript/Условные типы.md",
+    "Web/TypeScript/Обход приведения типов.md",
+    "Web/TypeScript/Как можно воспринимать тип.md",
+    "Web/TypeScript/Интересные примеры типизации.md",
+    "Web/TypeScript/Инструменты для определения типа.md",
+    "Web/Redux Toolkit",
+    "Web/React/Управляемый компонент.md",
+    "Web/React/Управляемый контролл.md",
+    "Web/React/memo vs useMemo vs useCallback.md",
+    "Web/React/React и работа с DOM.md",
+    "English/Contrasting ideas although, despite and others.md",
     "English/Gradable and non-gradable adjectives.md",
     "English/“In” vs. “On” vs. “At” (Place).md",
-    "Web/React/1 или несколько useState.md",
-    "Web/Безопасность/JWT.md",
-    "Philosophy/Добродетель у греков.md",
-    "Philosophy/Различие этикета и этики.md",
-    "Philosophy/Условность предмета изучения философии до Сократа.md",
-    "Philosophy/Plato/Справедливость как добродетель.md",
-    "Philosophy/Plato/Роль первой книги Государства.md",
-    "Philosophy/Plato/Разделение труда в полисе Платона.md",
-    "Philosophy/Plato/Проблема хронологии написания диалогов Платона.md",
-    "Philosophy/Plato/Причина возникновения полиса.md",
-    "Philosophy/Plato/В чем проблема идиллии Платона.md",
-    "Logic/Критерий правильности умозаключений.md",
+    "English/“In” vs. “On” vs. “At” (Time).md",
+    "English/Intensifiers so and such.md",
+    "Link.md",
+    "Philosophy/Plato/Главные мысли в государстве Платона.md",
     "English",
     "Cache/Pasted image 20240623224415.png",
     "Cache/Pasted image 20240623224053.png",
@@ -187,25 +211,13 @@
     "Cache/Pasted image 20240623215810.png",
     "Cache/Pasted image 20240623215319.png",
     "Cache/Pasted image 20240623214956.png",
-    "Web/TypeScript/Интересные примеры типизации.md",
-    "Web/TypeScript/Зачем нужны дженерики.md",
-    "Web/TypeScript/Инструменты для определения типа.md",
-    "Web/TypeScript/Условные типы.md",
-    "Web/TypeScript/Сужение типов.md",
-    "Web/TypeScript/Как можно воспринимать тип.md",
-    "Web/TypeScript/Обход приведения типов.md",
-    "Web/TypeScript/Enum после компиляции.md",
-    "Web/React Router/Outlet.md",
     "Web/TypeScript",
-    "Web/JavaScript/Интернационализация для дат.md",
-    "Web/React/Lazy loading.md",
     "Web/Безопасность",
     "Logic",
     "Web/React Router",
     "Web/JavaScript",
     "Web/React",
     "Web",
-    "Philosophy/Plato",
-    "Daily"
+    "Philosophy/Plato"
   ]
 }
