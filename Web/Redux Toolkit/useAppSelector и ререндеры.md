@@ -10,5 +10,5 @@ const { status } = useStateSelector((state) => state.todo);
 // Здесь не происходит лишнего ререндера 
 const status = useStateSelector((state) => state.todo.status);
 ```
-Связанные заметки
+## Связанные заметки
 [[Селекторы в сторе]]

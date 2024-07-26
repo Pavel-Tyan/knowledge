@@ -1,0 +1,2 @@
+### Look vs See
+When the word 'look' is used in a sentence, it means to direct one's eyes to watching something/someone in a particular direction. The word 'see' is used when something is perceived by our eyes or we catch a glimpse of something.
