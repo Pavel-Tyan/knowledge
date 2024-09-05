@@ -98,4 +98,44 @@ cooker - плита, печь, повар (The kitchenette is provided with elec
 guided tour - экскурсия
 fine - штраф
 current - течение (Let the _current_ take him out to sea. And I'm free to go with the _current_ to float.)
+cab - такси
+retail - розничный (The plan does not include _retail_ shops.)
+commitment - приверженность, обязательство (However, it's also a serious _commitment_.)
+waist - талия, пояс (You should be able to see his _waist_.)
+perfume - парфюм, духи (Go home and take your _perfume_.)
+below - ниже
+turn - поворот (Halfway through the _turn_, start accelerating again.)
+rural - сельский (I really enjoy the _rural_ lifestyle.)
+satellite - спутник, космический аппарат 
+domestic - домашний, бытовой, отечественный (This is true not only of _domestic_ manufacturers.)
+delight - восхищать, порадовать (глагол), радость, восторг (сущ) (Tonight I will _delight_ and amaze you.)
+contaminated - загрязненный, зараженный (Does not live in _contaminated_ areas.)
+vet - ветеринар, ветеран (That man looks more like a _vet_.)
+rear - задний, тыловой, хвостовой (Take them to the _rear_ exit.) разводить, растить (Please, can a Muslim _rear_ pigs for business?)
+cope - справиться, управляться (She can not _cope_ alone with the whole.)
+wool - шерсть, пряжа
+impregnate - пропитывать
+newly - вновь, недавно (нареч) (But _newly_ registered companies disappeared one after another. Three of them were _newly_ discovered.)
+pedestrians - пешеходы
+lane - трасса, дорожка, полоса (It is the city's first bicycle _lane_.)
+occupation - специальность, профессия (Our parents had the same _occupation_.)
+retailing - розничная торговля (Meanwhile, sales at other _retailing_ stores increased.)
+particularly - исключительно, именно (нар) (This year the food was _particularly_ good.)
+supervised - контролируемый, под наблюдением (прил/причастие) - (The operated children should be _supervised_.)
+fertilisers - удобрения (That is why people often apply phosphate _fertilisers_ on farmland.)
+nutrients - питательные вещества (The primary source of all _nutrients_ is food.)
+tart - пирожное, пирог (сущ), кислый, едкий (прил)
+handful - горсть, небольшое кол-во (A _handful_ of ashes dumped in the ocean.)
+supplement - добавка (сущ), дополнить (глаг) (The food _supplement_ has a broad antimicrobial effect. You can _supplement_ carbon dioxide in your tank in a number of ways.)
+detergent - моющее средство
+jugs - кувшин
+kitchenware - кухонная утварь
+rinse - промыть, полоскать (After washing, _rinse_ with water and dry.)
+envelope - конверт
+junk mail - спам
+lid - крышка (для сковородки или кастрюли)
+beverage - питье, напиток (more formal than drink) (Water should be your main _beverage_.)
+decent - приличный, достойный (He's... _decent_ and sweet.)
+plentiful - обильный, многочисленный
+scarse - скудный, малочисленный
 

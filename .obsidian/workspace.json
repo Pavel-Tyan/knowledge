@@ -37,19 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/New words.md",
+                "file": "Logic/Категориальный анализ языка.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc9a0a967d167697",
+            "id": "41eabb6c2524a77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Korean/Порядок правописания алфавита.md",
+                "file": "Web/CSS/Текст/Базовые правила типографики.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#React",
+                "query": "tag:#Korean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Korean/Порядок правописания алфавита.md",
+                "file": "Web/CSS/Текст/Базовые правила типографики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Korean/Порядок правописания алфавита.md",
+                "file": "Web/CSS/Текст/Базовые правила типографики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Korean/Порядок правописания алфавита.md"
+                "file": "Web/CSS/Текст/Базовые правила типографики.md"
               }
             }
           }
@@ -183,53 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc9a0a967d167697",
+  "active": "41eabb6c2524a77a",
   "lastOpenFiles": [
-    "Cache/Pasted image 20240726100502.png",
-    "English/New words.md",
-    "Korean/Порядок правописания алфавита.md",
-    "Korean",
-    "English/Word difference.md",
-    "English/Listening practice statistics.md",
-    "Web/React/Управляемый контролл.md",
+    "Web/CSS/Текст/Насыщенность шрифта.md",
+    "Web/CSS/Текст/Базовые правила типографики.md",
+    "Web/CSS/Текст/Курсив.md",
+    "Web/CSS/Текст/Капитель.md",
+    "Web/CSS/Текст/Интерлиньяж.md",
+    "Web/CSS/Текст/Семейство шрифта.md",
+    "Web/CSS/Текст/Горизонтальная черта.md",
+    "Web/CSS/Текст",
+    "Cache/Pasted image 20240905102756.png",
+    "Cache/Pasted image 20240905102537.png",
+    "Cache/Pasted image 20240905102407.png",
+    "Web/CSS/Каскадность.md",
+    "Cache/Pasted image 20240905102345.png",
+    "Web/CSS/Приоритет селекторов.md",
     "Web/JavaScript/Интернационализация для дат.md",
-    "English/Gradable and non-gradable adjectives.md",
-    "Web/Redux Toolkit/Правила использования селекторов.md",
-    "Web/Redux Toolkit/Селекторы в сторе.md",
-    "Web/Redux Toolkit/useAppSelector и ререндеры.md",
-    "Web/TypeScript/Зачем нужны дженерики.md",
-    "Web/React/useEffect vs useLayouotEffect.md",
-    "Web/React/Strict Mode и ререндеринг.md",
-    "Web/React/Statefull и Stateless.md",
-    "Web/React/Side Effects.md",
-    "Web/React/Batching.md",
-    "Web/React/Lazy loading.md",
-    "Web/TypeScript/Enum после компиляции.md",
-    "Web/TypeScript/Условные типы.md",
-    "Web/TypeScript/Обход приведения типов.md",
-    "Web/TypeScript/Как можно воспринимать тип.md",
-    "Web/TypeScript/Интересные примеры типизации.md",
-    "Web/TypeScript/Инструменты для определения типа.md",
+    "Web/CSS/Комбинации селекторов.md",
+    "Web/CSS/Что такое селектор.md",
+    "Web/CSS/Способы задания стилей.md",
+    "Web/React/Решение проблемы с ререндером Context.md",
+    "Web/React/1 или несколько useState.md",
+    "English/Essay IELTS templates.md",
+    "Web/CSS",
+    "Cache/Pasted image 20240812182655.png",
+    "Cache/Pasted image 20240812182650.png",
+    "Cache/Pasted image 20240812182645.png",
+    "Cache/Pasted image 20240812182635.png",
+    "English/Linking words.md",
+    "English/New words.md",
+    "English/Word difference.md",
+    "English/Reading practice.md",
+    "English/Listening practice statistics.md",
+    "Philosophy/Plato/Как Платон относился к своим взглядам на мир.md",
+    "Philosophy/Plato/Мифы для детей.md",
+    "Philosophy/Plato/Идиллия Платона.md",
+    "Philosophy/Plato/Справедливость и 3 другие добродетели.md",
+    "Philosophy/Plato/Как Платон понимал термин искусство.md",
+    "Cache/Pasted image 20240803095233.png",
+    "Cache/Pasted image 20240802204522.png",
+    "Korean",
     "Web/Redux Toolkit",
-    "Web/React/Управляемый компонент.md",
-    "Web/React/memo vs useMemo vs useCallback.md",
     "English",
-    "Cache/Pasted image 20240623224415.png",
-    "Cache/Pasted image 20240623224053.png",
-    "Cache/Pasted image 20240623223829.png",
-    "Cache/Pasted image 20240623222854.png",
-    "Cache/Pasted image 20240623222534.png",
-    "Cache/Pasted image 20240623221918.png",
-    "Cache/Pasted image 20240623220018.png",
-    "Cache/Pasted image 20240623215810.png",
-    "Cache/Pasted image 20240623215319.png",
-    "Cache/Pasted image 20240623214956.png",
     "Web/TypeScript",
     "Web/Безопасность",
     "Logic",
     "Web/React Router",
-    "Web/JavaScript",
-    "Web/React",
-    "Web"
+    "Web/JavaScript"
   ]
 }
