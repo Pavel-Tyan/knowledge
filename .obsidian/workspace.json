@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Текст/Базовые правила типографики.md",
+                "file": "Web/JavaScript/Объекты/Что такое объект.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Текст/Базовые правила типографики.md",
+                "file": "Web/JavaScript/Объекты/Что такое объект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Текст/Базовые правила типографики.md",
+                "file": "Web/JavaScript/Объекты/Что такое объект.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Текст/Базовые правила типографики.md"
+                "file": "Web/JavaScript/Объекты/Что такое объект.md"
               }
             }
           }
@@ -185,51 +185,51 @@
   },
   "active": "41eabb6c2524a77a",
   "lastOpenFiles": [
-    "Web/CSS/Текст/Насыщенность шрифта.md",
-    "Web/CSS/Текст/Базовые правила типографики.md",
-    "Web/CSS/Текст/Курсив.md",
-    "Web/CSS/Текст/Капитель.md",
-    "Web/CSS/Текст/Интерлиньяж.md",
-    "Web/CSS/Текст/Семейство шрифта.md",
-    "Web/CSS/Текст/Горизонтальная черта.md",
-    "Web/CSS/Текст",
-    "Cache/Pasted image 20240905102756.png",
-    "Cache/Pasted image 20240905102537.png",
-    "Cache/Pasted image 20240905102407.png",
-    "Web/CSS/Каскадность.md",
-    "Cache/Pasted image 20240905102345.png",
-    "Web/CSS/Приоритет селекторов.md",
+    "Web/JavaScript/Операторы сравнения.md",
+    "Web/JavaScript/Объекты/Что такое объект.md",
+    "Web/JavaScript/Объекты",
+    "Web/JavaScript/Логические операторы.md",
+    "Web/JavaScript/Взаимодействие alert, prompt, confirm.md",
     "Web/JavaScript/Интернационализация для дат.md",
-    "Web/CSS/Комбинации селекторов.md",
-    "Web/CSS/Что такое селектор.md",
-    "Web/CSS/Способы задания стилей.md",
-    "Web/React/Решение проблемы с ререндером Context.md",
-    "Web/React/1 или несколько useState.md",
-    "English/Essay IELTS templates.md",
+    "Web/JavaScript/Function declaration vs Function expression vs Arrow function.md",
+    "Web/JavaScript/Типы данных.md",
+    "Web/JavaScript/Тернарный оператор.md",
+    "Web/JavaScript/Приоритет операторов.md",
+    "Web/JavaScript/Преобразование типов.md",
+    "Web/JavaScript/Побитовые операторы.md",
+    "Cache/Pasted image 20240905190811.png",
+    "Cache/Pasted image 20240905190645.png",
+    "Cache/Pasted image 20240905190536.png",
+    "Web/CSS/Позиционирование.md",
+    "Web/CSS/Переменные.md",
+    "Web/CSS/Анимации/keyframes.md",
+    "Web/CSS/Медиа запросы.md",
+    "Web/CSS/Анимации",
+    "Web/CSS/Цветовая модель RGB.md",
+    "Web/CSS/Flex/Вендорные префиксы.md",
+    "Web/CSS/Flex/flex-grow, flex-shrink.md",
+    "Cache/Pasted image 20240905112836.png",
+    "Cache/Pasted image 20240905112831.png",
+    "Web/CSS/Flex/justify-content, align-items.md",
+    "Cache/Pasted image 20240905112411.png",
+    "Cache/Pasted image 20240905112227.png",
+    "Cache/Pasted image 20240905112146.png",
+    "Cache/Pasted image 20240905112133.png",
+    "Cache/Pasted image 20240905112130.png",
+    "Web/CSS/Flex/flex-wrap.md",
+    "Web/CSS/Flex/flex-direction.md",
+    "Web/CSS/Блочная модель и box-sizing.md",
+    "Web/CSS/Flex",
+    "Web/CSS/Отступы/margin.md",
+    "Web/CSS/Отступы/Untitled.md",
+    "Web/CSS/Отступы/padding.md",
+    "Web/CSS/Текст/Базовые правила типографики.md",
+    "Web/CSS/Отступы",
+    "Web/CSS/Текст",
     "Web/CSS",
-    "Cache/Pasted image 20240812182655.png",
-    "Cache/Pasted image 20240812182650.png",
-    "Cache/Pasted image 20240812182645.png",
-    "Cache/Pasted image 20240812182635.png",
-    "English/Linking words.md",
-    "English/New words.md",
-    "English/Word difference.md",
-    "English/Reading practice.md",
-    "English/Listening practice statistics.md",
-    "Philosophy/Plato/Как Платон относился к своим взглядам на мир.md",
-    "Philosophy/Plato/Мифы для детей.md",
-    "Philosophy/Plato/Идиллия Платона.md",
-    "Philosophy/Plato/Справедливость и 3 другие добродетели.md",
-    "Philosophy/Plato/Как Платон понимал термин искусство.md",
-    "Cache/Pasted image 20240803095233.png",
-    "Cache/Pasted image 20240802204522.png",
     "Korean",
     "Web/Redux Toolkit",
     "English",
-    "Web/TypeScript",
-    "Web/Безопасность",
-    "Logic",
-    "Web/React Router",
-    "Web/JavaScript"
+    "Web/TypeScript"
   ]
 }
