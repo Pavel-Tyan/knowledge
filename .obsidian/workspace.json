@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/JavaScript/База/Массивы.md",
+                "file": "Web/JavaScript/DOM/Размеры и прокрутка окна.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JavaScript/База/Массивы.md",
+                "file": "Web/JavaScript/DOM/Размеры и прокрутка окна.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JavaScript/База/Массивы.md",
+                "file": "Web/JavaScript/DOM/Размеры и прокрутка окна.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JavaScript/База/Массивы.md"
+                "file": "Web/JavaScript/DOM/Размеры и прокрутка окна.md"
               }
             }
           }
@@ -185,9 +185,34 @@
   },
   "active": "41eabb6c2524a77a",
   "lastOpenFiles": [
+    "Cache/Pasted image 20240908181935.png",
+    "Web/JavaScript/DOM/Страница, DOMContentLoaded, load, beforeunload, unload.md",
+    "Web/JavaScript/DOM/Размеры и прокрутка окна.md",
+    "Web/JavaScript/DOM/Действия по умолчанию и preventDefault.md",
+    "Web/JavaScript/DOM/Делегирование событий.md",
+    "Web/JavaScript/DOM/Всплытие.md",
+    "Cache/Pasted image 20240908181554.png",
+    "Cache/Pasted image 20240908181529.png",
+    "Cache/Pasted image 20240908181450.png",
+    "Web/JavaScript/DOM/Браузерные события.md",
+    "Web/JavaScript/DOM/async defer.md",
+    "Web/JavaScript/DOM/Браузерное окружение.md",
+    "Cache/Pasted image 20240908181111.png",
+    "Web/JavaScript/DOM/getElement, querySelector.md",
+    "Web/JavaScript/DOM/Классы DOM узлов.md",
+    "Web/JavaScript/DOM/Изменение CSS классов в DOM.md",
+    "Cache/Pasted image 20240908180718.png",
+    "Web/JavaScript/DOM/DOM.md",
+    "Cache/Pasted image 20240908180520.png",
+    "Cache/Pasted image 20240908180421.png",
+    "Web/JavaScript/Асинхронность/Async await.md",
+    "Web/JavaScript/DOM",
+    "Web/JavaScript/Асинхронность/promise.then(), catch(), finally().md",
+    "Web/JavaScript/Асинхронность/Promise.md",
+    "Web/JavaScript/База/Массивы.md",
+    "Web/JavaScript/Асинхронность",
     "Web/JavaScript/База/Операторы сравнения.md",
     "Web/JavaScript/База/Строки.md",
-    "Web/JavaScript/База/Массивы.md",
     "Logic/Понятие.md",
     "Logic/Определение логики.md",
     "Logic/Познание.md",
@@ -195,41 +220,16 @@
     "Logic/Синтаксис семантика и прагматика языка.md",
     "Logic/Суждение.md",
     "Logic/Рациональное познание.md",
-    "Logic/Рассуждение по аналогии.md",
-    "Logic/Признак.md",
-    "Logic/Языковое выражение.md",
-    "Logic/Чувственное познание.md",
-    "Web/JavaScript/База/Унарный плюс.md",
-    "Web/JavaScript/База/Приоритет операторов.md",
-    "Web/JavaScript/База/Логические операторы.md",
-    "Web/JavaScript/База/Преобразование типов.md",
-    "Web/JavaScript/База/Сборка мусора.md",
-    "Web/JavaScript/База/Тернарный оператор.md",
-    "Web/JavaScript/База/Типы данных.md",
-    "Web/JavaScript/База/Числа.md",
-    "Web/JavaScript/База/Побитовые операторы.md",
-    "Web/JavaScript/База/Взаимодействие alert, prompt, confirm.md",
-    "Web/JavaScript/Объекты/Методы примитивов.md",
-    "Web/JavaScript/Объекты/Копирование объектов и ссылки.md",
     "Cache/Pasted image 20240907103152.png",
     "Cache/Pasted image 20240907103047.png",
     "Cache/Pasted image 20240907103016.png",
-    "Cache/Pasted image 20240907101502.png",
-    "Cache/Pasted image 20240907101422.png",
-    "Cache/Pasted image 20240907101327.png",
     "Web/JavaScript/Объекты/Untitled",
     "Web/JavaScript/База",
     "Web/JavaScript/Объекты",
-    "Cache/Pasted image 20240905190811.png",
-    "Cache/Pasted image 20240905190645.png",
-    "Cache/Pasted image 20240905190536.png",
     "Web/CSS/Анимации",
-    "Cache/Pasted image 20240905112836.png",
     "Web/CSS/Flex",
     "Web/CSS/Отступы",
     "Web/CSS/Текст",
-    "Web/CSS",
-    "Korean",
-    "Web/Redux Toolkit"
+    "Web/CSS"
   ]
 }
