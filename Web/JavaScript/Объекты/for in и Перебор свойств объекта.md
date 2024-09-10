@@ -19,3 +19,5 @@ for (let key in user) {
 	alert(user[key]); // John, 30, true
 }
 ```
+
+[[Порядок в переборе свойств]]

@@ -35,3 +35,6 @@ let promise = new Promise(function(resolve, reject) {
 ## Error как аргумент reject
 
 В случае, если что-то пошло не так, мы должны вызвать `reject`. Это можно сделать с аргументом любого типа (как и `resolve`), но **рекомендуется использовать объект `Error`.**
+
+[[promise.then(), catch(), finally()]]
+[[Async await]]
