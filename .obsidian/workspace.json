@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/JavaScript/База/Особенность стрелочных функций.md",
+                "file": "Web/JavaScript/Объекты/Что такое объект.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JavaScript/База/Особенность стрелочных функций.md",
+                "file": "Web/JavaScript/Объекты/Что такое объект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JavaScript/База/Особенность стрелочных функций.md",
+                "file": "Web/JavaScript/Объекты/Что такое объект.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JavaScript/База/Особенность стрелочных функций.md"
+                "file": "Web/JavaScript/Объекты/Что такое объект.md"
               }
             }
           }
@@ -185,51 +185,51 @@
   },
   "active": "41eabb6c2524a77a",
   "lastOpenFiles": [
-    "Web/JavaScript/База/Имплементация debounce и throttle.md",
+    "Web/JavaScript/Объекты/Порядок в переборе свойств.md",
+    "Web/JavaScript/Объекты/Перебираемые объекты.md",
+    "Web/JavaScript/Объекты/Методы примитивов.md",
+    "Web/JavaScript/Объекты/Методы и this.md",
+    "Web/JavaScript/Объекты/Деструктурирующее присваивание.md",
+    "Web/JavaScript/База/Классы/instanceof.md",
+    "Web/JavaScript/База/Классы/Расширение встроенных классов.md",
+    "Cache/Pasted image 20240915202424.png",
+    "Web/JavaScript/База/Классы/Защищенные и приватные свойства.md",
+    "Web/JavaScript/База/Классы/Статические свойства методы.md",
+    "Cache/Pasted image 20240915201321.png",
+    "Web/JavaScript/База/Классы/Наследование.md",
+    "Cache/Pasted image 20240910171240.png",
+    "Cache/Pasted image 20240910171119.png",
+    "Web/JavaScript/База/Классы/Класс.md",
+    "Cache/Pasted image 20240910170241.png",
+    "Web/JavaScript/База/Прототипы/Иерархия встроенных прототипов.md",
+    "Web/JavaScript/База/Классы",
+    "Web/JavaScript/База/Untitled.md",
+    "Cache/Pasted image 20240910165301.png",
+    "Web/JavaScript/База/Прототипы/F.prototype.md",
+    "Cache/Pasted image 20240910164435.png",
+    "Cache/Pasted image 20240910164251.png",
+    "Web/JavaScript/База/Прототипы/Прототип.md",
+    "Cache/Pasted image 20240910162837.png",
+    "Cache/Pasted image 20240910162605.png",
     "Web/JavaScript/База/Особенность стрелочных функций.md",
+    "Web/JavaScript/База/Прототипы",
+    "Web/JavaScript/База/Имплементация debounce и throttle.md",
     "Web/JavaScript/База/Решение проблемы с потерей контекста функции.md",
     "Web/JavaScript/База/Таймеры.md",
     "Web/JavaScript/База/new Function.md",
     "Web/JavaScript/База/Function declaration vs Function expression vs Arrow function.md",
     "Web/JavaScript/База/Область видимости переменных, замыкание.md",
-    "Cache/Pasted image 20240910124731.png",
-    "Cache/Pasted image 20240910124713.png",
-    "Cache/Pasted image 20240910124656.png",
-    "Cache/Pasted image 20240910124633.png",
-    "Cache/Pasted image 20240910124501.png",
-    "Cache/Pasted image 20240910123542.png",
-    "Cache/Pasted image 20240910123409.png",
-    "Cache/Pasted image 20240910123315.png",
-    "Cache/Pasted image 20240910123151.png",
-    "Cache/Pasted image 20240910123023.png",
     "Web/JavaScript/База/Побитовые операторы.md",
     "Web/JavaScript/Объекты/JSON.md",
     "Web/JavaScript/Объекты/for in и Перебор свойств объекта.md",
     "Web/JavaScript/Объекты/Что такое объект.md",
-    "Web/JavaScript/Объекты/Порядок в переборе свойств.md",
-    "Web/JavaScript/Объекты/Методы примитивов.md",
-    "Web/JavaScript/Объекты/Копирование объектов и ссылки.md",
-    "Web/JavaScript/Объекты/Деструктурирующее присваивание.md",
-    "Web/JavaScript/Объекты/Object.keys , value, entries.md",
-    "Web/JavaScript/Объекты/Перебираемые объекты.md",
-    "Web/JavaScript/База/Массивы.md",
-    "Web/JavaScript/База/Строки.md",
-    "Web/React/API/Пример запроса к API.md",
-    "Web/JavaScript/Объекты/Методы и this.md",
     "Web/React/API",
-    "Web/JavaScript/База/Операторы сравнения.md",
-    "Web/JavaScript/База/Числа.md",
-    "Web/JavaScript/База/Типы данных.md",
-    "Web/JavaScript/База/Взаимодействие alert, prompt, confirm.md",
-    "Web/JavaScript/База/Унарный плюс.md",
     "Web/JavaScript/DOM",
     "Web/JavaScript/Асинхронность",
     "Web/JavaScript/Объекты/Untitled",
     "Web/JavaScript/База",
     "Web/JavaScript/Объекты",
     "Web/CSS/Анимации",
-    "Web/CSS/Flex",
-    "Web/CSS/Отступы",
-    "Web/CSS/Текст"
+    "Web/CSS/Flex"
   ]
 }
