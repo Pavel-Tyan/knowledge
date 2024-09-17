@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/JavaScript/Объекты/Что такое объект.md",
+                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JavaScript/Объекты/Что такое объект.md",
+                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JavaScript/Объекты/Что такое объект.md",
+                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JavaScript/Объекты/Что такое объект.md"
+                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md"
               }
             }
           }
@@ -185,6 +185,13 @@
   },
   "active": "41eabb6c2524a77a",
   "lastOpenFiles": [
+    "Cache/Pasted image 20240917154300.png",
+    "Web/JavaScript/Асинхронность/Промисификация.md",
+    "Web/JavaScript/Асинхронность/Микрозадачи.md",
+    "Web/JavaScript/База/Классы/Error.md",
+    "Web/JavaScript/База/Особенности try...catch.md",
+    "Web/CSS/Приоритет селекторов.md",
+    "Web/JavaScript/Объекты/Что такое объект.md",
     "Web/JavaScript/Объекты/Порядок в переборе свойств.md",
     "Web/JavaScript/Объекты/Перебираемые объекты.md",
     "Web/JavaScript/Объекты/Методы примитивов.md",
@@ -203,7 +210,6 @@
     "Cache/Pasted image 20240910170241.png",
     "Web/JavaScript/База/Прототипы/Иерархия встроенных прототипов.md",
     "Web/JavaScript/База/Классы",
-    "Web/JavaScript/База/Untitled.md",
     "Cache/Pasted image 20240910165301.png",
     "Web/JavaScript/База/Прототипы/F.prototype.md",
     "Cache/Pasted image 20240910164435.png",
@@ -217,12 +223,6 @@
     "Web/JavaScript/База/Решение проблемы с потерей контекста функции.md",
     "Web/JavaScript/База/Таймеры.md",
     "Web/JavaScript/База/new Function.md",
-    "Web/JavaScript/База/Function declaration vs Function expression vs Arrow function.md",
-    "Web/JavaScript/База/Область видимости переменных, замыкание.md",
-    "Web/JavaScript/База/Побитовые операторы.md",
-    "Web/JavaScript/Объекты/JSON.md",
-    "Web/JavaScript/Объекты/for in и Перебор свойств объекта.md",
-    "Web/JavaScript/Объекты/Что такое объект.md",
     "Web/React/API",
     "Web/JavaScript/DOM",
     "Web/JavaScript/Асинхронность",
