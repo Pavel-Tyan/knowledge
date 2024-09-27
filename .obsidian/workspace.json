@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md",
+                "file": "Philosophy/Plato/3 части души.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e8e48c49656557a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Plato/Идеал государства и человека.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Korean",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md",
+                "file": "Philosophy/Plato/Идеал государства и человека.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md",
+                "file": "Philosophy/Plato/Идеал государства и человека.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JavaScript/Асинхронность/Микрозадачи.md"
+                "file": "Philosophy/Plato/Идеал государства и человека.md"
               }
             }
           }
@@ -183,53 +195,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41eabb6c2524a77a",
+  "active": "0e8e48c49656557a",
   "lastOpenFiles": [
-    "Cache/Pasted image 20240917154300.png",
-    "Web/JavaScript/Асинхронность/Промисификация.md",
-    "Web/JavaScript/Асинхронность/Микрозадачи.md",
-    "Web/JavaScript/База/Классы/Error.md",
-    "Web/JavaScript/База/Особенности try...catch.md",
-    "Web/CSS/Приоритет селекторов.md",
+    "Philosophy/Plato/Общность стражей.md",
+    "Philosophy/Plato/Идеал государства и человека.md",
+    "Philosophy/Plato/3 части души.md",
+    "Philosophy/Plato/Равенство у женщин и мужчин.md",
+    "Philosophy/Plato/Справедливость.md",
+    "Philosophy/Plato/Справедливость как добродетель.md",
+    "Philosophy/Plato/Справедливость и 3 другие добродетели.md",
+    "Philosophy/Plato/В чем проблема идиллии Платона.md",
+    "Philosophy/Plato/Частная собственность у стражей.md",
+    "Philosophy/Политическая философия/Карл Шмитт.md",
+    "Philosophy/Политическая философия/Вебер М..md",
+    "Philosophy/Политическая философия/Антонио Грамши.md",
+    "Philosophy/Политическая философия/Маркс.md",
     "Web/JavaScript/Объекты/Что такое объект.md",
-    "Web/JavaScript/Объекты/Порядок в переборе свойств.md",
-    "Web/JavaScript/Объекты/Перебираемые объекты.md",
+    "Web/JavaScript/Объекты/Опциональная цепочка.md",
+    "Web/JavaScript/Объекты/Копирование объектов и ссылки.md",
     "Web/JavaScript/Объекты/Методы примитивов.md",
-    "Web/JavaScript/Объекты/Методы и this.md",
+    "Web/JavaScript/Объекты/JSON.md",
     "Web/JavaScript/Объекты/Деструктурирующее присваивание.md",
-    "Web/JavaScript/База/Классы/instanceof.md",
-    "Web/JavaScript/База/Классы/Расширение встроенных классов.md",
+    "Web/JavaScript/Объекты/Методы и this.md",
+    "Web/JavaScript/Объекты/Перебираемые объекты.md",
+    "Web/JavaScript/Объекты/Порядок в переборе свойств.md",
+    "Web/React/Side Effects.md",
+    "Web/React/Полезные репозитории.md",
+    "Web/React/API/Пример запроса к API.md",
+    "Web/React/React и работа с DOM.md",
+    "Philosophy/Политическая философия",
+    "Cache/Pasted image 20240917154300.png",
     "Cache/Pasted image 20240915202424.png",
-    "Web/JavaScript/База/Классы/Защищенные и приватные свойства.md",
-    "Web/JavaScript/База/Классы/Статические свойства методы.md",
     "Cache/Pasted image 20240915201321.png",
-    "Web/JavaScript/База/Классы/Наследование.md",
     "Cache/Pasted image 20240910171240.png",
     "Cache/Pasted image 20240910171119.png",
-    "Web/JavaScript/База/Классы/Класс.md",
     "Cache/Pasted image 20240910170241.png",
-    "Web/JavaScript/База/Прототипы/Иерархия встроенных прототипов.md",
     "Web/JavaScript/База/Классы",
     "Cache/Pasted image 20240910165301.png",
-    "Web/JavaScript/База/Прототипы/F.prototype.md",
     "Cache/Pasted image 20240910164435.png",
     "Cache/Pasted image 20240910164251.png",
-    "Web/JavaScript/База/Прототипы/Прототип.md",
     "Cache/Pasted image 20240910162837.png",
-    "Cache/Pasted image 20240910162605.png",
-    "Web/JavaScript/База/Особенность стрелочных функций.md",
     "Web/JavaScript/База/Прототипы",
-    "Web/JavaScript/База/Имплементация debounce и throttle.md",
-    "Web/JavaScript/База/Решение проблемы с потерей контекста функции.md",
-    "Web/JavaScript/База/Таймеры.md",
-    "Web/JavaScript/База/new Function.md",
     "Web/React/API",
     "Web/JavaScript/DOM",
     "Web/JavaScript/Асинхронность",
     "Web/JavaScript/Объекты/Untitled",
     "Web/JavaScript/База",
     "Web/JavaScript/Объекты",
-    "Web/CSS/Анимации",
-    "Web/CSS/Flex"
+    "Web/CSS/Анимации"
   ]
 }
