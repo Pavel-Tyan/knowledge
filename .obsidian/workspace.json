@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Plato/3 части души.md",
+                "file": "Philosophy/Plato/Связь диалектики и математики.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Plato/Идеал государства и человека.md",
+                "file": "Philosophy/Plato/Настоящий философ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5804c2b75fa63c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Plato/Настоящий философ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Plato/Идеал государства и человека.md",
+                "file": "Philosophy/Plato/Связь диалектики и математики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Plato/Идеал государства и человека.md",
+                "file": "Philosophy/Plato/Связь диалектики и математики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Plato/Идеал государства и человека.md"
+                "file": "Philosophy/Plato/Связь диалектики и математики.md"
               }
             }
           }
@@ -195,34 +207,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e8e48c49656557a",
+  "active": "41eabb6c2524a77a",
   "lastOpenFiles": [
-    "Philosophy/Plato/Общность стражей.md",
-    "Philosophy/Plato/Идеал государства и человека.md",
-    "Philosophy/Plato/3 части души.md",
-    "Philosophy/Plato/Равенство у женщин и мужчин.md",
-    "Philosophy/Plato/Справедливость.md",
-    "Philosophy/Plato/Справедливость как добродетель.md",
-    "Philosophy/Plato/Справедливость и 3 другие добродетели.md",
-    "Philosophy/Plato/В чем проблема идиллии Платона.md",
+    "Philosophy/Plato/Теория познания Платона.md",
     "Philosophy/Plato/Частная собственность у стражей.md",
-    "Philosophy/Политическая философия/Карл Шмитт.md",
-    "Philosophy/Политическая философия/Вебер М..md",
-    "Philosophy/Политическая философия/Антонио Грамши.md",
-    "Philosophy/Политическая философия/Маркс.md",
-    "Web/JavaScript/Объекты/Что такое объект.md",
-    "Web/JavaScript/Объекты/Опциональная цепочка.md",
-    "Web/JavaScript/Объекты/Копирование объектов и ссылки.md",
-    "Web/JavaScript/Объекты/Методы примитивов.md",
-    "Web/JavaScript/Объекты/JSON.md",
-    "Web/JavaScript/Объекты/Деструктурирующее присваивание.md",
-    "Web/JavaScript/Объекты/Методы и this.md",
-    "Web/JavaScript/Объекты/Перебираемые объекты.md",
-    "Web/JavaScript/Объекты/Порядок в переборе свойств.md",
-    "Web/React/Side Effects.md",
-    "Web/React/Полезные репозитории.md",
-    "Web/React/API/Пример запроса к API.md",
-    "Web/React/React и работа с DOM.md",
+    "Philosophy/Plato/Связь диалектики и математики.md",
+    "Philosophy/Plato/Связь гимнастики и мусического искусства с душой.md",
+    "Philosophy/Plato/В чем проблема идиллии Платона.md",
+    "Philosophy/Plato/Благо.md",
+    "Philosophy/Plato/Вина софистов.md",
+    "Philosophy/Plato/Почему Алкивиад пал.md",
+    "Philosophy/Plato/Настоящий философ.md",
+    "Philosophy/Plato/Истина, Знание и мнение.md",
+    "Philosophy/Plato/3 части души.md",
+    "Philosophy/Plato/Как Платон относился к своим взглядам на мир.md",
+    "Philosophy/Plato/Как Платон понимал термин искусство.md",
+    "Philosophy/Plato/Правители.md",
+    "Philosophy/Plato/Правление не приносит пользы правителю.md",
+    "Philosophy/Plato/Общность стражей.md",
+    "Philosophy/Plato/Искусство не дает пользы мастеру.md",
+    "Philosophy/Политическая философия/Ханна Арендт.md",
+    "Web/TypeScript/Сужение типов.md",
+    "Web/TypeScript/Обход приведения типов.md",
+    "Web/TypeScript/Как можно воспринимать тип.md",
+    "Web/TypeScript/Интересные примеры типизации.md",
+    "Web/TypeScript/Зачем нужны дженерики.md",
+    "Web/TypeScript/Инструменты для определения типа.md",
+    "Web/TypeScript/Условные типы.md",
+    "Web/TypeScript/Enum после компиляции.md",
     "Philosophy/Политическая философия",
     "Cache/Pasted image 20240917154300.png",
     "Cache/Pasted image 20240915202424.png",
