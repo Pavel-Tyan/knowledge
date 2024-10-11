@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Plato/Связь диалектики и математики.md",
+                "file": "Philosophy/Plato/Истина, Знание и мнение.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Plato/Настоящий философ.md",
+                "file": "Web/JavaScript/Хранение данных/indexedDB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Plato/Связь диалектики и математики.md",
+                "file": "Web/JavaScript/Хранение данных/indexedDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Plato/Связь диалектики и математики.md",
+                "file": "Web/JavaScript/Хранение данных/indexedDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Plato/Связь диалектики и математики.md"
+                "file": "Web/JavaScript/Хранение данных/indexedDB.md"
               }
             }
           }
@@ -207,34 +207,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41eabb6c2524a77a",
+  "active": "d5804c2b75fa63c6",
   "lastOpenFiles": [
-    "Philosophy/Plato/Теория познания Платона.md",
-    "Philosophy/Plato/Частная собственность у стражей.md",
-    "Philosophy/Plato/Связь диалектики и математики.md",
-    "Philosophy/Plato/Связь гимнастики и мусического искусства с душой.md",
-    "Philosophy/Plato/В чем проблема идиллии Платона.md",
-    "Philosophy/Plato/Благо.md",
-    "Philosophy/Plato/Вина софистов.md",
-    "Philosophy/Plato/Почему Алкивиад пал.md",
+    "Cache/Pasted image 20241011215121.png",
+    "Web/JavaScript/Хранение данных/localStorage, sessionStorage.md",
+    "Web/JavaScript/Хранение данных/indexedDB.md",
+    "Web/JavaScript/Хранение данных/Куки.md",
+    "Web/React/Решение проблемы с ререндером Context.md",
+    "Web/JavaScript/Хранение данных",
+    "Philosophy/Политическая философия/Эрик Фёгелин.md",
+    "Philosophy/Политическая философия/Лео Штраус.md",
+    "Philosophy/Политическая философия/Ханна Арендт.md",
+    "Philosophy/Политическая философия/Антонио Грамши.md",
+    "Philosophy/Политическая философия/Вебер М..md",
     "Philosophy/Plato/Настоящий философ.md",
     "Philosophy/Plato/Истина, Знание и мнение.md",
-    "Philosophy/Plato/3 части души.md",
-    "Philosophy/Plato/Как Платон относился к своим взглядам на мир.md",
-    "Philosophy/Plato/Как Платон понимал термин искусство.md",
-    "Philosophy/Plato/Правители.md",
-    "Philosophy/Plato/Правление не приносит пользы правителю.md",
-    "Philosophy/Plato/Общность стражей.md",
-    "Philosophy/Plato/Искусство не дает пользы мастеру.md",
-    "Philosophy/Политическая философия/Ханна Арендт.md",
-    "Web/TypeScript/Сужение типов.md",
-    "Web/TypeScript/Обход приведения типов.md",
-    "Web/TypeScript/Как можно воспринимать тип.md",
-    "Web/TypeScript/Интересные примеры типизации.md",
-    "Web/TypeScript/Зачем нужны дженерики.md",
-    "Web/TypeScript/Инструменты для определения типа.md",
-    "Web/TypeScript/Условные типы.md",
-    "Web/TypeScript/Enum после компиляции.md",
+    "Philosophy/Plato/Мифы для детей.md",
+    "Philosophy/Plato/Назначение души по Платону.md",
+    "Philosophy/Plato/Справедливость и 3 другие добродетели.md",
+    "Philosophy/Plato/Справедливость как добродетель.md",
+    "Philosophy/Plato/Теория познания Платона.md",
+    "Philosophy/Plato/Знание и мнение.md",
+    "Philosophy/Аристотель/Проблемы теории идей Платона.md",
+    "Philosophy/Plato/Благо.md",
+    "Philosophy/Аристотель",
+    "Philosophy/Plato/Связь диалектики и математики.md",
+    "Philosophy/Plato/Частная собственность у стражей.md",
+    "Philosophy/Plato/Связь гимнастики и мусического искусства с душой.md",
+    "Philosophy/Plato/В чем проблема идиллии Платона.md",
+    "Philosophy/Plato/Вина софистов.md",
+    "Philosophy/Plato/Почему Алкивиад пал.md",
     "Philosophy/Политическая философия",
     "Cache/Pasted image 20240917154300.png",
     "Cache/Pasted image 20240915202424.png",
@@ -252,8 +254,6 @@
     "Web/JavaScript/DOM",
     "Web/JavaScript/Асинхронность",
     "Web/JavaScript/Объекты/Untitled",
-    "Web/JavaScript/База",
-    "Web/JavaScript/Объекты",
-    "Web/CSS/Анимации"
+    "Web/JavaScript/База"
   ]
 }
