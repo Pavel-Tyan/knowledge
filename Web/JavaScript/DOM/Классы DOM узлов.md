@@ -110,7 +110,7 @@ let textNode = document.createTextNode('А вот и я');
 
 Вот полный пример:
 
-```jsx
+```js
 <style>
 .alert {
   padding: 15px;

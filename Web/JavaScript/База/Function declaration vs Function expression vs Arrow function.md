@@ -14,7 +14,7 @@ function func() {
 
 ```JS
 func();
-// function declaration
+// function expression
 const func = function() {
 	console.log(1)
 }
@@ -24,7 +24,7 @@ const func = function() {
 
 ```JS
 func();
-// function declaration
+// arrow function
 const func = () => {
 	console.log(1)
 }

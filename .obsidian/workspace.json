@@ -4,83 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "37aa5ea9b2e5c34d",
+        "id": "1c4d421b591a0a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "cf25701e2fe9222a",
+            "id": "3859a9ea99df96b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/React/React и работа с DOM.md",
+                "file": "Philosophy/Политическая философия/Герберт Маркузе.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Герберт Маркузе"
             }
           },
           {
-            "id": "64fdde277c3c9216",
+            "id": "cc4097653fa16e68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/React/Синтетические события.md",
+                "file": "Philosophy/Политическая философия/Спор коммунитаристов и либералов.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Спор коммунитаристов и либералов"
             }
           },
           {
-            "id": "c18016838fd8acd2",
+            "id": "020d817d38faff2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Категориальный анализ языка.md",
+                "file": "Philosophy/Иммануил Кант/Априорные и апостериорные суждения.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "41eabb6c2524a77a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Plato/Истина, Знание и мнение.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e8e48c49656557a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Plato/Настоящий философ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5804c2b75fa63c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/JavaScript/Хранение данных/indexedDB.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Априорные и апостериорные суждения"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -115,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -146,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/JavaScript/Хранение данных/indexedDB.md",
+                "file": "Philosophy/Политическая философия/Спор коммунитаристов и либералов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Спор коммунитаристов и либералов"
             }
           },
           {
@@ -163,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/JavaScript/Хранение данных/indexedDB.md",
+                "file": "Philosophy/Политическая философия/Спор коммунитаристов и либералов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Спор коммунитаристов и либералов"
             }
           },
           {
@@ -177,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -186,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/JavaScript/Хранение данных/indexedDB.md"
-              }
+                "file": "Philosophy/Политическая философия/Спор коммунитаристов и либералов.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Спор коммунитаристов и либералов"
             }
           }
         ]
@@ -207,36 +191,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5804c2b75fa63c6",
+  "active": "020d817d38faff2e",
   "lastOpenFiles": [
-    "Cache/Pasted image 20241011215121.png",
-    "Web/JavaScript/Хранение данных/localStorage, sessionStorage.md",
-    "Web/JavaScript/Хранение данных/indexedDB.md",
-    "Web/JavaScript/Хранение данных/Куки.md",
-    "Web/React/Решение проблемы с ререндером Context.md",
-    "Web/JavaScript/Хранение данных",
-    "Philosophy/Политическая философия/Эрик Фёгелин.md",
-    "Philosophy/Политическая философия/Лео Штраус.md",
-    "Philosophy/Политическая философия/Ханна Арендт.md",
-    "Philosophy/Политическая философия/Антонио Грамши.md",
-    "Philosophy/Политическая философия/Вебер М..md",
-    "Philosophy/Plato/Настоящий философ.md",
-    "Philosophy/Plato/Истина, Знание и мнение.md",
-    "Philosophy/Plato/Мифы для детей.md",
-    "Philosophy/Plato/Назначение души по Платону.md",
+    "Philosophy/Иммануил Кант/Знание.md",
+    "Philosophy/Иммануил Кант/Главный вопрос критики чистого разума.md",
+    "English/Linking words.md",
+    "English/Intensifiers so and such.md",
+    "English/Listening practice statistics.md",
+    "English/New words.md",
+    "English/Word difference.md",
+    "English/Reading practice.md",
+    "Philosophy/Иммануил Кант/Аналитические и синтетические суждения.md",
+    "Philosophy/Иммануил Кант/Влияние других философов на Канта.md",
+    "Philosophy/Иммануил Кант/Важная проблема критики чистого разума.md",
+    "Logic/Суждение.md",
+    "Philosophy/Иммануил Кант/Априорные и апостериорные суждения.md",
+    "Philosophy/Иммануил Кант/Трансцедентальное и трансцендентное.md",
+    "Philosophy/Иммануил Кант/Структура критики чистого разума.md",
+    "Philosophy/Иммануил Кант/Начало к новому видению познания.md",
+    "Philosophy/Иммануил Кант/Как появилась критика чистого разума.md",
+    "Philosophy/Иммануил Кант/Проблемы науки.md",
+    "Philosophy/Иммануил Кант/Различие  между логическим и реальным основанием.md",
+    "Philosophy/Иммануил Кант/Опыт в науке.md",
+    "Philosophy/Политическая философия/Спор коммунитаристов и либералов.md",
+    "Philosophy/Иммануил Кант",
+    "Philosophy/Политическая философия/Либерализм и утилитаризм вместе.md",
+    "Philosophy/Политическая философия/Джон Ролз.md",
+    "Philosophy/Plato/Справедливость.md",
     "Philosophy/Plato/Справедливость и 3 другие добродетели.md",
-    "Philosophy/Plato/Справедливость как добродетель.md",
-    "Philosophy/Plato/Теория познания Платона.md",
-    "Philosophy/Plato/Знание и мнение.md",
-    "Philosophy/Аристотель/Проблемы теории идей Платона.md",
-    "Philosophy/Plato/Благо.md",
+    "Philosophy/Добродетель у греков.md",
+    "Cache/Pasted image 20241011215121.png",
+    "Web/JavaScript/Хранение данных",
     "Philosophy/Аристотель",
-    "Philosophy/Plato/Связь диалектики и математики.md",
-    "Philosophy/Plato/Частная собственность у стражей.md",
-    "Philosophy/Plato/Связь гимнастики и мусического искусства с душой.md",
-    "Philosophy/Plato/В чем проблема идиллии Платона.md",
-    "Philosophy/Plato/Вина софистов.md",
-    "Philosophy/Plato/Почему Алкивиад пал.md",
     "Philosophy/Политическая философия",
     "Cache/Pasted image 20240917154300.png",
     "Cache/Pasted image 20240915202424.png",
@@ -244,16 +230,14 @@
     "Cache/Pasted image 20240910171240.png",
     "Cache/Pasted image 20240910171119.png",
     "Cache/Pasted image 20240910170241.png",
-    "Web/JavaScript/База/Классы",
+    "Web/JavaScript/Классы",
     "Cache/Pasted image 20240910165301.png",
     "Cache/Pasted image 20240910164435.png",
     "Cache/Pasted image 20240910164251.png",
-    "Cache/Pasted image 20240910162837.png",
-    "Web/JavaScript/База/Прототипы",
+    "Web/JavaScript/Прототипы",
     "Web/React/API",
     "Web/JavaScript/DOM",
     "Web/JavaScript/Асинхронность",
-    "Web/JavaScript/Объекты/Untitled",
-    "Web/JavaScript/База"
+    "Web/JavaScript/Объекты/Untitled"
   ]
 }
