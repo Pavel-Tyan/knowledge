@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Иммануил Кант/Априорные и апостериорные суждения.md",
+                "file": "Philosophy/Иммануил Кант/Почему критика чистого разума.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Априорные и апостериорные суждения"
+              "title": "Почему критика чистого разума"
+            }
+          },
+          {
+            "id": "43d815e71fb82459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Иммануил Кант/Пространство.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пространство"
+            }
+          },
+          {
+            "id": "39c4aa5ecab950f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Политическая философия/Петтит Ф.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Петтит Ф"
+            }
+          },
+          {
+            "id": "abe99d6d0e39089e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/React/useState lazy initialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "useState lazy initialization"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,53 +233,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "020d817d38faff2e",
+  "active": "abe99d6d0e39089e",
   "lastOpenFiles": [
-    "Philosophy/Иммануил Кант/Знание.md",
-    "Philosophy/Иммануил Кант/Главный вопрос критики чистого разума.md",
-    "English/Linking words.md",
-    "English/Intensifiers so and such.md",
-    "English/Listening practice statistics.md",
-    "English/New words.md",
-    "English/Word difference.md",
-    "English/Reading practice.md",
-    "Philosophy/Иммануил Кант/Аналитические и синтетические суждения.md",
-    "Philosophy/Иммануил Кант/Влияние других философов на Канта.md",
-    "Philosophy/Иммануил Кант/Важная проблема критики чистого разума.md",
-    "Logic/Суждение.md",
-    "Philosophy/Иммануил Кант/Априорные и апостериорные суждения.md",
-    "Philosophy/Иммануил Кант/Трансцедентальное и трансцендентное.md",
+    "Web/Протоколы, сети/Методы http.md",
+    "Web/React/useState lazy initialization.md",
+    "Web/Протоколы, сети/Структура http запроса.md",
+    "Web/Протоколы, сети/http.md",
+    "Web/На что влияет размер бандла.md",
+    "Cache/Pasted image 20250105145506.png",
+    "Cache/Pasted image 20250105145428.png",
+    "Web/Протоколы, сети",
+    "Web/React/Strict Mode и ререндеринг.md",
+    "Web/React/Statefull и Stateless.md",
+    "Web/React/Side Effects.md",
+    "Web/React/React ПЛОХО для простых приложений.md",
+    "Drawing/Ref.md",
+    "Drawing/Ошибки.md",
+    "Web/React/Проблемы с SEO.md",
+    "Web/Прикольные решения/Структура проекта.md",
+    "Cache/Pasted image 20241228154559.png",
+    "Web/Прикольные решения/index в качестве key.md",
+    "Web/Прикольные решения/Boolean() vs !! для проверки на undefined, null.md",
+    "Web/Прикольные решения/Эффект паралакса.md",
+    "Web/Прикольные решения/Alias.md",
+    "Philosophy/Иммануил Кант/Вещь в себе.md",
+    "Philosophy/Иммануил Кант/Фундамент критики чистого разума.md",
+    "Philosophy/Иммануил Кант/Чистое знание.md",
+    "Philosophy/Иммануил Кант/Чистое представление и созерцание.md",
+    "Philosophy/Иммануил Кант/Явление, чувственность, ощущение, форма.md",
     "Philosophy/Иммануил Кант/Структура критики чистого разума.md",
-    "Philosophy/Иммануил Кант/Начало к новому видению познания.md",
-    "Philosophy/Иммануил Кант/Как появилась критика чистого разума.md",
-    "Philosophy/Иммануил Кант/Проблемы науки.md",
+    "Philosophy/Иммануил Кант/Пространство.md",
     "Philosophy/Иммануил Кант/Различие  между логическим и реальным основанием.md",
-    "Philosophy/Иммануил Кант/Опыт в науке.md",
-    "Philosophy/Политическая философия/Спор коммунитаристов и либералов.md",
+    "Philosophy/Иммануил Кант/Суждения в науках.md",
+    "Cache/Pasted image 20241223151706.png",
+    "Web/Прикольные решения",
+    "Cache/Pasted image 20241124223826.png",
+    "Cache/Pasted image 20241124223820.png",
+    "Cache/Pasted image 20241124223818.png",
+    "Cache/Pasted image 20241124223814.png",
+    "Cache/Pasted image 20241124223810.png",
+    "Cache/Pasted image 20241124223758.png",
+    "Drawing",
     "Philosophy/Иммануил Кант",
-    "Philosophy/Политическая философия/Либерализм и утилитаризм вместе.md",
-    "Philosophy/Политическая философия/Джон Ролз.md",
-    "Philosophy/Plato/Справедливость.md",
-    "Philosophy/Plato/Справедливость и 3 другие добродетели.md",
-    "Philosophy/Добродетель у греков.md",
-    "Cache/Pasted image 20241011215121.png",
     "Web/JavaScript/Хранение данных",
     "Philosophy/Аристотель",
     "Philosophy/Политическая философия",
-    "Cache/Pasted image 20240917154300.png",
-    "Cache/Pasted image 20240915202424.png",
-    "Cache/Pasted image 20240915201321.png",
-    "Cache/Pasted image 20240910171240.png",
-    "Cache/Pasted image 20240910171119.png",
-    "Cache/Pasted image 20240910170241.png",
     "Web/JavaScript/Классы",
-    "Cache/Pasted image 20240910165301.png",
-    "Cache/Pasted image 20240910164435.png",
-    "Cache/Pasted image 20240910164251.png",
     "Web/JavaScript/Прототипы",
-    "Web/React/API",
-    "Web/JavaScript/DOM",
-    "Web/JavaScript/Асинхронность",
-    "Web/JavaScript/Объекты/Untitled"
+    "Web/React/API"
   ]
 }
