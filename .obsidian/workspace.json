@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "useState lazy initialization"
             }
+          },
+          {
+            "id": "a0b6760b51ed2790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ПАПС/Архитектурные механизмы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Архитектурные механизмы"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -233,53 +248,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abe99d6d0e39089e",
+  "active": "a0b6760b51ed2790",
   "lastOpenFiles": [
-    "Web/Протоколы, сети/Методы http.md",
-    "Web/React/useState lazy initialization.md",
-    "Web/Протоколы, сети/Структура http запроса.md",
-    "Web/Протоколы, сети/http.md",
-    "Web/На что влияет размер бандла.md",
-    "Cache/Pasted image 20250105145506.png",
-    "Cache/Pasted image 20250105145428.png",
-    "Web/Протоколы, сети",
-    "Web/React/Strict Mode и ререндеринг.md",
-    "Web/React/Statefull и Stateless.md",
-    "Web/React/Side Effects.md",
-    "Web/React/React ПЛОХО для простых приложений.md",
-    "Drawing/Ref.md",
-    "Drawing/Ошибки.md",
-    "Web/React/Проблемы с SEO.md",
-    "Web/Прикольные решения/Структура проекта.md",
-    "Cache/Pasted image 20241228154559.png",
-    "Web/Прикольные решения/index в качестве key.md",
-    "Web/Прикольные решения/Boolean() vs !! для проверки на undefined, null.md",
+    "ПАПС/ЗАР или ADR.md",
+    "ПАПС/Архитектурные механизмы.md",
+    "ПАПС/UseCase.md",
+    "ПАПС/Требования и спецификация.md",
+    "ПАПС/Виды требований.md",
+    "ПАПС/Зачем архитектура.md",
+    "ПАПС/Уровни проектирования.md",
+    "Cache/Pasted image 20250218212442.png",
+    "ПАПС/Разные определения архитектуры.md",
+    "ОКИТ/Методы контроля качества ПО.md",
+    "ПАПС",
+    "ОКИТ/Определение тестирования для курса.md",
+    "ОКИТ/Что такое качество ПО.md",
+    "ОКИТ/Стандарт для требований.md",
+    "ОКИТ/Покрытие ветвей и инструкций.md",
+    "ОКИТ/Валидация и верификация требований.md",
+    "ОКИТ/Методы верификации.md",
+    "Cache/Pasted image 20250218204517.png",
+    "Cache/Pasted image 20250218202809.png",
+    "РИАТ/CJM.md",
+    "ОКИТ",
+    "РИАТ/Модель Кано.md",
+    "РИАТ/Impact mapping.md",
+    "РИАТ/Маркетинговая воронка.md",
+    "РИАТ/Бизнес-модель Canvas.md",
+    "Web/Прикольные решения/Замена axios оберткой над fetch.md",
+    "Web/Прикольные решения/Как найти проблемный блок при адаптиве.md",
+    "Web/Прикольные решения/Цвет каретки.md",
     "Web/Прикольные решения/Эффект паралакса.md",
     "Web/Прикольные решения/Alias.md",
-    "Philosophy/Иммануил Кант/Вещь в себе.md",
-    "Philosophy/Иммануил Кант/Фундамент критики чистого разума.md",
-    "Philosophy/Иммануил Кант/Чистое знание.md",
-    "Philosophy/Иммануил Кант/Чистое представление и созерцание.md",
-    "Philosophy/Иммануил Кант/Явление, чувственность, ощущение, форма.md",
-    "Philosophy/Иммануил Кант/Структура критики чистого разума.md",
-    "Philosophy/Иммануил Кант/Пространство.md",
-    "Philosophy/Иммануил Кант/Различие  между логическим и реальным основанием.md",
-    "Philosophy/Иммануил Кант/Суждения в науках.md",
-    "Cache/Pasted image 20241223151706.png",
+    "Web/Прикольные решения/aria для after.md",
+    "Cache/Pasted image 20250208155335.png",
+    "Cache/Pasted image 20250208155316.png",
+    "Cache/Pasted image 20250208135908.png",
+    "Cache/Pasted image 20250208134932.png",
+    "Cache/Pasted image 20250208134922.png",
+    "Cache/Pasted image 20250208134914.png",
+    "Cache/Pasted image 20250208134748.png",
+    "РИАТ",
+    "Классика",
+    "Web/React/Untitled/Untitled",
+    "Web/React/Design Patterns",
+    "Web/Протоколы, сети",
     "Web/Прикольные решения",
-    "Cache/Pasted image 20241124223826.png",
-    "Cache/Pasted image 20241124223820.png",
-    "Cache/Pasted image 20241124223818.png",
-    "Cache/Pasted image 20241124223814.png",
-    "Cache/Pasted image 20241124223810.png",
-    "Cache/Pasted image 20241124223758.png",
     "Drawing",
-    "Philosophy/Иммануил Кант",
-    "Web/JavaScript/Хранение данных",
-    "Philosophy/Аристотель",
-    "Philosophy/Политическая философия",
-    "Web/JavaScript/Классы",
-    "Web/JavaScript/Прототипы",
-    "Web/React/API"
+    "Philosophy/Иммануил Кант"
   ]
 }

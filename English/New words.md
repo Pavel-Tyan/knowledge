@@ -138,4 +138,72 @@ beverage - питье, напиток (more formal than drink) (Water should be 
 decent - приличный, достойный (He's... _decent_ and sweet.)
 plentiful - обильный, многочисленный
 scarse - скудный, малочисленный
+delusional - бредовый, сумасшедший, иллюзорный. (But then, this is a _delusional_ world. And I can't trust my _delusional_ thoughts.)
+speaking of which - кстати говоря/кстати об этом. (_speaking of which_, is that why you fired your lawyer.)
+strive - стремиться/приложить усилия. (it encourages individuals to strive for excellence.)
+primary - первичный/главный. (One of the primary benefits of competition).
+To push their limits - преодолевать свои пределы.
+drive somebody - побуждать кого-то (A passion for justice often _drives students_ to pursue peace and conflict studies.)
+outperform - превзойти.
+peers - сверстники. (outperform their peers)
+rivals - конкуренты
+mistrust, suspicion - недоверие, подозрение. (Such a decision only breeds suspicion and _mistrust_) 
+foster - способствовать/стимулировать (It can _foster_ cooperation or create competition and atomization.)
+overly - чрезмерно (The project manager called the team's dreaming expectations [_overly_](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/overly) optimistic.)
+lead to - привести к чему-либо/способстовать (This can also _lead to_ multiple copies of the same data.)
+educationalists - работники из сферы образования
+In an increasingly globalized world - все более глобализированный мир
+effectiveness - эффективность
+practicality - практичность
+evaluate the smth - оценить что-то (evaluate the advantages and disadvantages)
+cultural exposure - культурный контакт (The primary advantage of international exchange visits is the cultural exposure they provide)
+firsthand (наречие) - из первых рук/своими глазами. (You can experience a new culture firsthand)
+diversity - многообразие (Spain has a wide _diversity_ of architectural styles and landscapes.)
+acquisition - приобретение/овладение (Another key benefit is the opportunity for language acquisition)
+real-world - реальный (real-world situation)
+fluency - свободное владение (It enhancing fluency and confidence in using a new language.)
+problem-solving (problem-solving skills)
+inaccessible - недоступный
+culture shock - культурный шок
+overwhelming - непреодолимый
+adjusting - приспособление (Living in a new country means _adjusting_ to a new culture and new attitudes.)
+homesickness - тоска по дому
+temporary - временный
+contribute - внести вклад (it can ultimately contribute to personal growth.)
+ubiquity - вездесущность (the ubiquity of computers and technology in every aspect of life has transformed the way we work, communicate, and access information.)
+strongly agree - полностью согласен
+cornerstones - краеугольные камни (These skills have been the cornerstones of human development)
+enabling - позволять (enabling individuals to communicate, think critically)
+literacy - грамотность (computer literacy)
+crucial - ключевой, важный (it has become a crucial component of education)
+learning process - процесс обучения
+proficiency - мастерство (proficiency in computer skills)
+essential - обязательный, важный
+is needed to - необходимо для (computer literacy is needed to navigate a wide range of tasks)
+rely heavily - полагаются в значительной степени (most industries now rely heavily on digital tools)
+core curriculum - основной учебный план
+acknowledge - признать/осознать (Treat her with respect and _acknowledge_ her feelings.)
+firmly believe - твердо верить (I firmly believe that ...)
+undeniable - неоспоримый
+In response to this - в ответ на это (In response to this, some advocate for genetically modified (GM) foods as a potential solution)
+shortages - нехватка
+proponents - сторонники, защитники (Proponents of GM foods argue that...)
+yields - урожайность (increase yields)
+resist - сопротивляться (resist diseases, pests)
+adverse - неблагоприятный (adverse environmental conditions)
+crops - урожай
+nutritious - питательный 
+deficiency - дефицит (vitamin A deficiency)
+vitamin - витамин
+conventional - общепринятые (conventional farming methods)
+contamination - загрязнение
+panacea - панацея
+grubs - личинки
+mud - грязь
+solitary - одинокий
+fame - слава
+mortality rates - уровень смертности
+disastrous - катастрофический
+storey - этаж
+unscathed - невредимый
 
