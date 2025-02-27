@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Архитектурные механизмы"
             }
+          },
+          {
+            "id": "da59304be00aa957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CI CD/Терминология.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Терминология"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -248,8 +262,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b6760b51ed2790",
+  "active": "da59304be00aa957",
   "lastOpenFiles": [
+    "CI CD/Не используй npm install.md",
+    "CI CD/Что такое CI CD.md",
+    "CI CD/yaml.md",
+    "CI CD/Терминология.md",
+    "CI CD/Untitled",
+    "Wuwa/Rotations/Jinhsi & Zhezhi & Verina.md",
+    "CI CD",
+    "Philosophy/Владимир Соловьев/Смысл жизни.md",
+    "Wuwa/Rotations",
+    "Wuwa",
+    "Philosophy/Владимир Соловьев/3 пути.md",
+    "Philosophy/Иммануил Кант/Этика.md",
+    "Philosophy/В.md",
+    "Philosophy/Владимир Соловьев",
+    "Web/Тестирование Frontend/Независимость unit тестов.md",
+    "Web/Тестирование Frontend/AAA.md",
+    "Web/Тестирование Frontend/Не нужно тестировать библиотеку!.md",
+    "Web/Тестирование Frontend/Хрупкость тестов.md",
+    "Web/Тестирование Frontend/1 файл 1 unit тест.md",
+    "Web/Тестирование Frontend/В чем плюс Unit тестов.md",
+    "Web/Тестирование Frontend/Когда не нужно писать тесты.md",
+    "Web/Тестирование Frontend/В чем проблема E2E тестов.md",
+    "Классика/Достоевский.md",
+    "Web/Тестирование Frontend",
     "ПАПС/ЗАР или ADR.md",
     "ПАПС/Архитектурные механизмы.md",
     "ПАПС/UseCase.md",
@@ -259,28 +297,10 @@
     "ПАПС/Уровни проектирования.md",
     "Cache/Pasted image 20250218212442.png",
     "ПАПС/Разные определения архитектуры.md",
-    "ОКИТ/Методы контроля качества ПО.md",
     "ПАПС",
-    "ОКИТ/Определение тестирования для курса.md",
-    "ОКИТ/Что такое качество ПО.md",
-    "ОКИТ/Стандарт для требований.md",
-    "ОКИТ/Покрытие ветвей и инструкций.md",
-    "ОКИТ/Валидация и верификация требований.md",
-    "ОКИТ/Методы верификации.md",
     "Cache/Pasted image 20250218204517.png",
     "Cache/Pasted image 20250218202809.png",
-    "РИАТ/CJM.md",
     "ОКИТ",
-    "РИАТ/Модель Кано.md",
-    "РИАТ/Impact mapping.md",
-    "РИАТ/Маркетинговая воронка.md",
-    "РИАТ/Бизнес-модель Canvas.md",
-    "Web/Прикольные решения/Замена axios оберткой над fetch.md",
-    "Web/Прикольные решения/Как найти проблемный блок при адаптиве.md",
-    "Web/Прикольные решения/Цвет каретки.md",
-    "Web/Прикольные решения/Эффект паралакса.md",
-    "Web/Прикольные решения/Alias.md",
-    "Web/Прикольные решения/aria для after.md",
     "Cache/Pasted image 20250208155335.png",
     "Cache/Pasted image 20250208155316.png",
     "Cache/Pasted image 20250208135908.png",
@@ -289,12 +309,6 @@
     "Cache/Pasted image 20250208134914.png",
     "Cache/Pasted image 20250208134748.png",
     "РИАТ",
-    "Классика",
-    "Web/React/Untitled/Untitled",
-    "Web/React/Design Patterns",
-    "Web/Протоколы, сети",
-    "Web/Прикольные решения",
-    "Drawing",
-    "Philosophy/Иммануил Кант"
+    "Классика"
   ]
 }
